@@ -1,0 +1,16 @@
+{
+  "name": "ves-io-arcadia-demo-crapi-gateway-services",
+  "version": "1.0.0",
+  "description": "Dummy Node.js implementation of crAPI for F5 XC discovery",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cookie-parser": "^1.4.6"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
